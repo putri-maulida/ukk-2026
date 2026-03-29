@@ -1,0 +1,55 @@
+.nav-link {
+background-color: lightslategray;
+margin-right: 10px;
+margin-left: 10px;
+border-radius: 15px;
+color: white !important;            
+}
+.body {
+margin-bottom: 30px;
+}
+.index-body{
+margin-bottom: 90px;
+margin-top: 90px;
+background-color: ghostwhite;
+overflow-x: hidden; 
+}
+.form {
+border-radius: 40px;
+height: 100vh !important;
+justify-content: center !important;
+--bs-gutter-x: 1.5rem;
+--bs-gutter-y: 0;
+display: flex;
+flex-wrap: wrap;
+margin-top: calc(-1 * var(--bs-gutter-y));
+margin-right: calc(-0.5 * var(--bs-gutter-x));
+margin-left: calc(-0.5 * var(--bs-gutter-x));
+align-content: center !important;
+}
+.div-data {
+height: 100vh !important;
+justify-content: center !important;
+--bs-gutter-x: 1.5rem;
+--bs-gutter-y: 0;
+display: flex;
+flex-wrap: wrap;
+margin-top: calc(-1 * var(--bs-gutter-y));
+margin-right: calc(-0.5 * var(--bs-gutter-x));
+margin-left: calc(-0.5 * var(--bs-gutter-x));
+align-content: center !important;
+}
+.data-body{
+background-color: ghostwhite;
+overflow-x: hidden; 
+}
+.cek-body{
+background-color: ghostwhite;
+overflow-x: hidden;
+}
+.detail-body{
+background-color: ghostwhite;
+overflow-x: hidden;
+margin-top: 30px;
+margin-bottom: 30px;
+}
